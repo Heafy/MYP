@@ -1,4 +1,5 @@
 # Practica 04
+
 ## El problema de 3n+1
 
 Consideremos el siguiente algoritmo para generar una secuencia de números, comenzando con un
