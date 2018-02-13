@@ -23,3 +23,4 @@ La cadena es doblete, porque llegamos de ROSA a COME cambiando una sola letra po
 nueva de izquierda a derecha.
 El programa una cadena de palabras separadas por guión e imprima ES DOBLETE o
 NO ES DOBLETE, dependiendo de si cumple con la definición anterior.
+
