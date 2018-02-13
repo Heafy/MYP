@@ -38,3 +38,4 @@ muestra al pokemón ganador.
 
 Una función que cuente la cantidad de apariciones de cada carácter en una cadena de texto, y
 los devuelva en un diccionario.
+
