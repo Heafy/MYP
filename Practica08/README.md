@@ -6,5 +6,6 @@ La calculadora es capaz de realizar las siguientes operaciones:
 * resta
 * multiplicación
 * división
+
 Así como permitir el borrado de operaciones y números con C
 Utiliza las herramientas vistas: JLabel, JButton, JFrame, etc
