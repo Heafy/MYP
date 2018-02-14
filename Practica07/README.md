@@ -1,4 +1,4 @@
-#Practica 07
+# Practica 07
 
 ## Interfaces graficas
 
@@ -14,8 +14,15 @@ Un programa que realice lo siguiente:
 1. Preguntar mediante un cuadro de diálogo que se quiere dibujar, si rectángulos o círculos.
 ![](img/2.png)
 
+
 2. Si la opción seleccionada es 1 debe mostrar:
+
+
 ![](img/3.png)
 
+
 3. Si la opción seleccionada es 2 debe mostrar:
+
+
+
 ![](img/4.png)
